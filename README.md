@@ -14,7 +14,7 @@ Simple RevitAddin with ThemeChanged event in Revit 2024.
 
 ## Video
 
-Videos in portuguese with the creation of this project.
+Video in portuguese with the creation of this project.
 
 [![VideoIma1]][Video1]
 
@@ -26,5 +26,5 @@ This project is [licensed](LICENSE) under the [MIT Licence](https://en.wikipedia
 
 Do you like this project? Please [star this project on GitHub](../../stargazers)!
 
-[Video1]: https://youtu.be/4oVJWDRhrRs
-[VideoIma1]: https://img.youtube.com/vi/4oVJWDRhrRs/mqdefault.jpg
+[Video1]: https://youtu.be/Ody4F98BsYM
+[VideoIma1]: https://img.youtube.com/vi/Ody4F98BsYM/mqdefault.jpg
