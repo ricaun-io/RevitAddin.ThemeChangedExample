@@ -12,6 +12,12 @@ Simple RevitAddin with ThemeChanged event in Revit 2024.
 
 * Download and install [RevitAddin.ThemeChangedExample.exe](../../releases/latest/download/RevitAddin.ThemeChangedExample.zip)
 
+## Video
+
+Videos in portuguese with the creation of this project.
+
+[![VideoIma1]][Video1]
+
 ## License
 
 This project is [licensed](LICENSE) under the [MIT Licence](https://en.wikipedia.org/wiki/MIT_License).
@@ -19,3 +25,6 @@ This project is [licensed](LICENSE) under the [MIT Licence](https://en.wikipedia
 ---
 
 Do you like this project? Please [star this project on GitHub](../../stargazers)!
+
+[Video1]: https://youtu.be/4oVJWDRhrRs
+[VideoIma1]: https://img.youtube.com/vi/4oVJWDRhrRs/mqdefault.jpg
